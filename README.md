@@ -1,4 +1,4 @@
-AMEX Supply & Vendor Dashboard Report 
+**AMEX Supply & Vendor Dashboard Report **
 Overview 
 This report provides an in-depth analysis of the AMEX Supply & Vendor Dashboard, highlighting key financial metrics, vendor distributions, expense trends, and regional spending. The data visualizations offer insights into the company's financial activities, vendor performance, and regional expenditures. 
 Key Metrics 
